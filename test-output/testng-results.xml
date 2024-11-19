@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-14T18:52:15 IST" name="Suite" finished-at="2024-11-14T18:53:10 IST" duration-ms="55292">
+    <groups>
+    </groups>
+    <test started-at="2024-11-14T18:52:15 IST" name="Test" finished-at="2024-11-14T18:53:10 IST" duration-ms="55292">
+      <class name="TcReport.TC_06">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TcReport.TC_06@268f106e]" started-at="2024-11-14T18:52:54 IST" name="launchBrowser" finished-at="2024-11-14T18:52:57 IST" duration-ms="2829" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginOperation()[pri:0, instance:TcReport.TC_06@268f106e]" started-at="2024-11-14T18:52:57 IST" name="loginOperation" finished-at="2024-11-14T18:53:01 IST" duration-ms="3645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOperation -->
+        <test-method signature="ORG_02()[pri:0, instance:TcReport.TC_06@268f106e]" started-at="2024-11-14T18:53:01 IST" name="ORG_02" finished-at="2024-11-14T18:53:09 IST" duration-ms="8219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ORG_02 -->
+        <test-method is-config="true" signature="logoutOperation()[pri:0, instance:TcReport.TC_06@268f106e]" started-at="2024-11-14T18:53:09 IST" name="logoutOperation" finished-at="2024-11-14T18:53:10 IST" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutOperation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TcReport.TC_06@268f106e]" started-at="2024-11-14T18:53:10 IST" name="closeBrowser" finished-at="2024-11-14T18:53:10 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TcReport.TC_06 -->
+      <class name="TcReport.TC_07">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TcReport.TC_07@1750fbeb]" started-at="2024-11-14T18:52:15 IST" name="launchBrowser" finished-at="2024-11-14T18:52:19 IST" duration-ms="3731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginOperation()[pri:0, instance:TcReport.TC_07@1750fbeb]" started-at="2024-11-14T18:52:19 IST" name="loginOperation" finished-at="2024-11-14T18:52:25 IST" duration-ms="5835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOperation -->
+        <test-method signature="ORG_03()[pri:0, instance:TcReport.TC_07@1750fbeb]" started-at="2024-11-14T18:52:25 IST" name="ORG_03" finished-at="2024-11-14T18:52:36 IST" duration-ms="11721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ORG_03 -->
+        <test-method is-config="true" signature="logoutOperation()[pri:0, instance:TcReport.TC_07@1750fbeb]" started-at="2024-11-14T18:52:36 IST" name="logoutOperation" finished-at="2024-11-14T18:52:38 IST" duration-ms="1030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutOperation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TcReport.TC_07@1750fbeb]" started-at="2024-11-14T18:52:38 IST" name="closeBrowser" finished-at="2024-11-14T18:52:38 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TcReport.TC_07 -->
+      <class name="TcReport.TC_08">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TcReport.TC_08@5b247367]" started-at="2024-11-14T18:52:38 IST" name="launchBrowser" finished-at="2024-11-14T18:52:41 IST" duration-ms="2714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginOperation()[pri:0, instance:TcReport.TC_08@5b247367]" started-at="2024-11-14T18:52:41 IST" name="loginOperation" finished-at="2024-11-14T18:52:46 IST" duration-ms="4999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOperation -->
+        <test-method signature="ORG_04()[pri:0, instance:TcReport.TC_08@5b247367]" started-at="2024-11-14T18:52:46 IST" name="ORG_04" finished-at="2024-11-14T18:52:56 IST" duration-ms="10671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ORG_04 -->
+        <test-method is-config="true" signature="logoutOperation()[pri:0, instance:TcReport.TC_08@5b247367]" started-at="2024-11-14T18:52:56 IST" name="logoutOperation" finished-at="2024-11-14T18:52:57 IST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutOperation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TcReport.TC_08@5b247367]" started-at="2024-11-14T18:52:57 IST" name="closeBrowser" finished-at="2024-11-14T18:52:58 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TcReport.TC_08 -->
+      <class name="TcReport.TC_09">
+        <test-method is-config="true" signature="dbConnection()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:15 IST" name="dbConnection" finished-at="2024-11-14T18:52:15 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnection -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:15 IST" name="launchBrowser" finished-at="2024-11-14T18:52:19 IST" duration-ms="3787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="loginOperation()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:19 IST" name="loginOperation" finished-at="2024-11-14T18:52:25 IST" duration-ms="5846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOperation -->
+        <test-method signature="CON_01()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:25 IST" name="CON_01" finished-at="2024-11-14T18:52:41 IST" duration-ms="16062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CON_01 -->
+        <test-method is-config="true" signature="logoutOperation()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:41 IST" name="logoutOperation" finished-at="2024-11-14T18:52:44 IST" duration-ms="2734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutOperation -->
+        <test-method is-config="true" signature="loginOperation()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:44 IST" name="loginOperation" finished-at="2024-11-14T18:52:48 IST" duration-ms="4795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginOperation -->
+        <test-method signature="method()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:48 IST" name="method" finished-at="2024-11-14T18:52:48 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method is-config="true" signature="logoutOperation()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:48 IST" name="logoutOperation" finished-at="2024-11-14T18:52:54 IST" duration-ms="5525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutOperation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:52:54 IST" name="closeBrowser" finished-at="2024-11-14T18:52:54 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeDBConnection()[pri:0, instance:TcReport.TC_09@6fa51cd4]" started-at="2024-11-14T18:53:11 IST" name="closeDBConnection" finished-at="2024-11-14T18:53:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBConnection -->
+      </class> <!-- TcReport.TC_09 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
